@@ -1,0 +1,18 @@
+# RAG Pipeline Dependencies
+
+# Core ML/NLP Libraries
+sentence-transformers>=2.2.2
+torch>=2.0.0
+transformers>=4.30.0
+
+# Vector Database
+chromadb>=0.4.0
+
+# UI Framework
+gradio>=4.0.0
+
+# Data Processing
+numpy>=1.24.0
+
+# Additional dependencies
+tqdm>=4.65.0

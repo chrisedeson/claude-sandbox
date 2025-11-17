@@ -1,0 +1,10 @@
+Introduction to Machine Learning
+
+Machine learning is a subset of artificial intelligence that focuses on developing systems that can learn from and make decisions based on data. Unlike traditional programming where explicit instructions are provided, machine learning algorithms build models based on sample data, known as training data, to make predictions or decisions without being explicitly programmed to perform the task.
+
+Types of Machine Learning:
+1. Supervised Learning: The algorithm learns from labeled training data and makes predictions based on that data.
+2. Unsupervised Learning: The algorithm finds patterns in data without pre-existing labels.
+3. Reinforcement Learning: The algorithm learns through trial and error, receiving rewards or penalties.
+
+Common applications include image recognition, natural language processing, recommendation systems, and autonomous vehicles. Machine learning has revolutionized many industries by enabling computers to perform tasks that previously required human intelligence.
